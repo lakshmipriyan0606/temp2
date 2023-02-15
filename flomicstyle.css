@@ -1,0 +1,312 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ body{
+    
+    background:linear-gradient(to left ,pink );
+    width: auto;
+    overflow-x: hidden;
+ }
+
+.logo{
+    background-color:white;
+    width:34.4vh ;
+    height:100vh ;
+    padding-top:20px ;
+}
+
+
+
+ .ho , .au , .se, .po, .co { 
+    
+    text-align: center;
+    color: aliceblue;
+    border: 1px solid rgb(230, 233, 37);
+    background-color:rgb(240, 80, 22);
+    margin-top:2px ;
+    height:50px ;
+    font-size:1.4em ;
+    padding-top: 18px;
+}
+
+.content{
+    
+    background-repeat: no-repeat;
+     text-align: center;
+    padding-top: 150px;
+    position: relative;
+    bottom:990px;
+    left:250px ;
+    font-size:3em ;
+  
+}
+
+.content > h1{
+    color: deeppink;
+}
+
+.content > p{
+    color:teal;
+    font-size:0.8em ;
+    padding-top:20px ;
+}
+
+
+.wel{
+   
+    text-align: center;
+    position: relative;
+    bottom:910px;
+    left:250px ;
+    font-size: 2em;
+}
+
+
+.wel > h1{
+    color: tomato;
+}
+
+
+.container{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content:center;
+    gap: 19em;
+    position: relative;
+    bottom:730px;
+    left:250px ;
+}
+
+.auv{
+  
+    text-align: left;
+    color:aliceblue;
+    border:1px solid orange ;
+    width:14vw ;
+    height:6vh ;
+    background-color:orangered ;
+    margin-left:0.2em ;
+    padding-left:1.6em ;
+    padding-top:0.3em ;
+    font-size:1.5em ;
+}
+
+.names{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content:center;
+    gap:12em;
+    position: relative;
+    bottom:690px;
+    left:280px ;
+    padding-top:10px ;
+    color:rgb(218, 25, 185);
+    font-size: 1.5em;
+    
+}
+
+.cw{
+    padding-right:5em ;
+    padding-left:5em ;
+}
+
+.tb {
+    padding-right:8em ;
+}
+
+.tc{
+    padding-right:10em ;
+}
+
+
+.role{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content:center;
+    column-gap:18em;
+    position: relative;
+    bottom:685px;
+    left:250px ;
+    padding-top:10px ;
+    color:black;
+    font-size: 1.5em;
+}
+
+
+
+.img{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content:right;
+    position: relative;
+    bottom:39em ;
+    right: 5em;
+}
+
+.om{
+    position: relative;
+    bottom:54em ;
+    left:20em;
+    color:teal;
+}
+
+.h0{
+    position: relative;
+    bottom:2.8em ;
+    left:;  
+    color:navy;
+}
+
+.ser{
+    text-align: left;
+    color:aliceblue;
+    border:1px solid rgb(55, 0, 255) ;
+    width:8vw ;
+    height:6vh ;
+    background-color:rgb(55, 0, 255) ;
+    margin-left:0.1em ;
+    padding-left:1.6em ;
+    padding-top:1.2em ;
+    font-size:1.5em ;
+}
+
+.be{
+    display:flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+.b{
+    padding:2em ;
+}
+
+.sfu{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    position: relative;
+    bottom:45em ;
+    left:0em;
+    gap:4em ;
+    padding-left:2em ;
+   
+   
+}
+
+.support{
+    border: 2px solid rgb(191, 25, 197);
+    opacity: 0.7;
+    height:50px ;
+    width:300px ;
+    font-size:1.7em;
+    padding-left:75px ;
+    padding-top:20px ;
+    background-color: rgb(191, 25, 197);
+    color: white;
+}
+
+.full{
+    border: 2px solid rgb(191, 25, 197);
+    opacity: 0.7;
+    height:50px ;
+    width:300px ;
+    font-size:1.7em;
+    padding-left:75px ;
+    padding-top:20px ;
+    background-color: rgb(191, 25, 197);
+    color: white;
+}
+
+.un{
+    border: 2px solid rgb(191, 25, 197);
+    opacity: 0.7;
+    height:50px ;
+    width:300px ;
+    font-size:1.7em;
+    padding-left:75px ;
+    padding-top:20px ;
+    background-color: rgb(191, 25, 197);
+    color: white;
+}
+
+.new{
+    position: relative;
+    bottom:16em ;
+    left:22em;
+    font-size:2.5em ;  
+    color:white;  
+    border:1px solid red ;
+    width:20vw ;
+    padding-left:60px;
+    background-color: red;
+    border-radius:0.5em ;
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    position: relative;
+    bottom:35em ;
+}
+
+button{
+    position: relative;
+    bottom:10.4em ;
+    left:18.7em;
+    font-size:2.9em ;
+    background-color:mediumblue;
+    color: white;
+    border:1px solid mediumblue ;
+    border-radius:7px ;
+}
+
+.loc{
+    position: relative;
+    bottom:9em ;
+    font-size:3em ;
+    border:2px solid cornflowerblue ;
+    border-left:20em ;
+    width:85vw ;
+    padding-left:17em;
+    background-color:cornflowerblue;
+}
+
+.lo{
+    position:relative;
+    bottom:23em ;
+    left:35em ;
+    height:100vh ;
+}
+
+.lab{
+ display: block;
+ position: relative;
+ bottom:50em ;
+}
+
+.in1, .in2, .in3{
+ padding:1.3em ;
+ font-size:2.2em;
+
+}
+
+.in1 input , .in2 input, .in3 input{
+    margin-left:1em ;
+    width:20em ;
+    height:30px ;
+    font-size:1.2em ;
+    padding:15px ;
+    border-radius:12px ;
+}
+
+
+.but2{
+    position: relative;
+    bottom:0.02em ;
+    left:11em ;
+    width:350px ;
+    background-color: blue;
+    border: 1px solid blue;
+}
